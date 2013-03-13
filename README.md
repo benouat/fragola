@@ -1,4 +1,4 @@
 fragola
 =======
 
-Mobile Aria Templates Layer
+A personal attempt at simplifying Mobile Aria Templates Layer.
